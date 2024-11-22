@@ -90,8 +90,6 @@ Before starting, ensure you have:
 
 
 
-
-
 ### Set up prerequisites
 
 - **Discover VMs**: Use the Azure Migrate appliance to discover the Hyper-V hosts and VMs.
@@ -169,11 +167,13 @@ Before starting, ensure you have:
 ![image](https://github.com/user-attachments/assets/01618c1d-cea0-4baf-bb0f-bcfa45cb1100)
 
 
+
     . **Map credentrials** : Choose your previous  added AWS server
 
 
 
-![image](https://github.com/user-attachments/assets/e35df6f9-75df-4e4f-bbbe-effb8fcd6ab3)
+![image](https://github.com/user-attachments/assets/e7994443-1c0a-40e5-ab9e-d45fa9eab7b7)
+
 
  
  - Successfully discovered. In case you have problem, allow the port **`5985`** in the firewall inboud rules.
