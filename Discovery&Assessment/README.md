@@ -82,7 +82,7 @@ Before starting, ensure you have:
 
 - Follow the powershell prompt and I read cearfully to make the right choices.
 
-- After successfully installation copy the url provided and  paste it on the web browser and then continue the procedure
+- After successfully installation copy the  provided url at the end, paste it on your web browser and then continue the procedure.
 
 
 
