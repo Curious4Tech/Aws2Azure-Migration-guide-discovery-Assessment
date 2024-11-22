@@ -106,7 +106,8 @@ Before starting, ensure you have:
 
 
 
-![image](https://github.com/user-attachments/assets/f5aa8357-eeb8-48dd-ae7e-50a3c66facae)
+![image](https://github.com/user-attachments/assets/49bf123e-5d9c-4def-90de-ab958991c080)
+
 
 
   
