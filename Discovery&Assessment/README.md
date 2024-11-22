@@ -142,9 +142,9 @@ Before starting, ensure you have:
 
 - **Add credentials**: Click on **Add credentials** and provide your server admin credeantials and the click on **Save**.
 
-    . **Source type** : Choose **`Windows or Linux`** depending on the AWS VM you want to migrate.
+    . **Source type** : Choose **`Windows Server or Linux Server`** depending on the AWS VM OS you want to migrate.
   
-    . **Friendly name** : Choose a name you want (e;g: **MigrateServer**) it doesn't have obligatory to be the name of the host on which you Hyper-V is installed.
+    . **Friendly name** : Choose a name you want (e;g: **MigrateServer**) it doesn't have obligatory to be the same name as AWS VM.
   
     . **Username** :  Administrator (Your AWS VM username)
   
@@ -160,11 +160,16 @@ Before starting, ensure you have:
 
 - **Add Discovery** : Click on **Add discovery**, then clcik on **Add single item**. Now provide the following informations needed and then clcik on **Save**.
   
-    . **Discovery soure** : Choose **`Hyper-V Host/ Cluster`**
+    . **Discovery soure** : Choose **`Windows Server or Linux Server`** depending on the AWS VM OS you want to migrate.
   
-    . **IP address/ FQDN** : your server domain name or your server Ip address
-  
-    . **Map credentrials** : Choose your previous server added
+    . **IP address/ FQDN** : Your AWS VM or server domain name or your AWS public IP address
+
+
+
+  ![image](https://github.com/user-attachments/assets/aa8a1c57-06cb-489d-a389-9af393ba0e4f)
+
+
+    . **Map credentrials** : Choose your previous  added AWS server
 
 
 
