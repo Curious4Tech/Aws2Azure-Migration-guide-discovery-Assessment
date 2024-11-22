@@ -152,7 +152,8 @@ Before starting, ensure you have:
 
 
 
-![image](https://github.com/user-attachments/assets/c3b02da9-c9c7-4670-96d0-3e2de0dfe274)
+![image](https://github.com/user-attachments/assets/9617aa23-bca9-4f08-96ee-4a48b1305abe)
+
 
 
 
