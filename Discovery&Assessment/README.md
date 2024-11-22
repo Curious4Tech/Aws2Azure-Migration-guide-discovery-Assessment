@@ -142,13 +142,13 @@ Before starting, ensure you have:
 
 - **Add credentials**: Click on **Add credentials** and provide your server admin credeantials and the click on **Save**.
 
-    . **Source type** : Choose **`Hyper-V Host/ Cluster`**
+    . **Source type** : Choose **`Windows or Linux`** depending on the AWS VM you want to migrate.
   
-    . **Friendly name** : Choose a name you want (e;g: **HypervServer**) it doesn't have obligatory to be the name of the host on which you Hyper-V is installed.
+    . **Friendly name** : Choose a name you want (e;g: **MigrateServer**) it doesn't have obligatory to be the name of the host on which you Hyper-V is installed.
   
-    . **Username** : Admin username (e.g; **Administrator**) of hsost machine where hyper-V server is installed
+    . **Username** :  Administrator (Your AWS VM username)
   
-    . **Password** : admin password
+    . **Password** : admin password (Your AWS VM password)
 
 
 
