@@ -166,7 +166,7 @@ Before starting, ensure you have:
 
 
 
-  ![image](https://github.com/user-attachments/assets/aa8a1c57-06cb-489d-a389-9af393ba0e4f)
+![image](https://github.com/user-attachments/assets/01618c1d-cea0-4baf-bb0f-bcfa45cb1100)
 
 
     . **Map credentrials** : Choose your previous  added AWS server
