@@ -1,11 +1,11 @@
 ## Introduction
-This guide provides detailed steps to migrate a server from Hyper-V to Azure using Azure Migrate.
+This guide provides detailed steps to do discovery and assessment of an AWS VM using Azure Migrate.
 
 ## Prerequisites
 Before starting, ensure you have:
 - An active Azure subscription.
 - Permissions to create VMs and write to Azure managed disks.
-- Access to the Hyper-V host and VMs you want to migrate.
+- Access to the Azure portal and VMs you want to migrate.
 
 ## Step-by-Step Guide
 
