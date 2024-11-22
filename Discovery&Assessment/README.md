@@ -86,7 +86,8 @@ Before starting, ensure you have:
 
 
 
-![image](https://github.com/user-attachments/assets/af6add27-fc75-4fee-b554-55303becc60d)
+![image](https://github.com/user-attachments/assets/af9d335e-abd2-4e50-bb5a-1985d60ffd5c)
+
 
 
 
