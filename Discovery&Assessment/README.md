@@ -17,7 +17,8 @@ Before starting, ensure you have:
 ![image](https://github.com/user-attachments/assets/06703932-564d-467d-bd69-ed5fe3e2d643)
 
 
-- Provide detailled information
+- Provide detailled information :
+  
     .  **Sucbscription**
   
     .  **Resource group**
