@@ -19,15 +19,20 @@ Before starting, ensure you have:
 
 - Provide detailled information
     .  **Sucbscription**
+  
     .  **Resource group**
+  
     .  **Project name**
+  
     .  **Geography**
+  
     .  **Connectivity method**
+
 - Click on **Create** to finish your project creation
 
 
 
-![image](https://github.com/user-attachments/assets/992828a2-3098-4bbb-a9f5-736077be7ffc)
+![image](https://github.com/user-attachments/assets/ac880238-9497-45f9-bdcd-2053072d6997)
 
 
 
