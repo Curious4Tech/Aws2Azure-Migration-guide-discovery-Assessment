@@ -49,15 +49,15 @@ Before starting, ensure you have:
 
 - Discover section under **"Azure Migrate | Servers, databases, and web apps**." It provides a guide for discovering on-premises environments using the Azure Migrate appliance. Here are the key steps shown:
 
-  . **Select Virtualization**: The servers are virtualized, with **"Yes, with Hyper-V**" chosen.
+  . **Select Virtualization**: The servers are virtualized, with **`Physical or other (AWS,GCP,Xen,etc.`** chosen.
 
-  . **Generate Project Key**: An appliance named **"mykey"** , and then click on **generate key** to generate a new key and then copy and save it, you will need it later.
+  . **Generate Project Key**: An appliance named **`key1`** , and then click on **generate key** to generate a new key and then copy and save it, you will need it later.
 
-  . **Download Appliance**: There are options to download either a .VHD file (12GB) or a .zip file (500MB), with the download (here am downloading .zip, so I will use powershell for the installation process).
+  . **Download Appliance**: Download the .zip file (500MB), so I will use powershell for the installation process.
 
 
 
-![image](https://github.com/user-attachments/assets/fbe688d9-e459-48f5-89c8-bd0dfc00247f)
+![image](https://github.com/user-attachments/assets/38755457-b037-44dc-b6f5-b90099d8662e)
 
 
 - **Install the Appliance**: Install the appliance on a Hyper-V host.
