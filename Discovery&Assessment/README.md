@@ -264,3 +264,10 @@ Before starting, ensure you have:
 ![image](https://github.com/user-attachments/assets/a730f8a5-5c0e-4747-9344-0308c0b14f06)
 
 
+- Verify and create assessment : Review to see if everything is correct before clicking on Review + create assessment. If there is any change you want to make, you can clcik on Previous.
+
+
+![image](https://github.com/user-attachments/assets/bc750178-c963-4110-b219-c0b7cca08605)
+
+
+
