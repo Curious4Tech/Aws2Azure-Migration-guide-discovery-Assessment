@@ -289,3 +289,10 @@ Before starting, ensure you have:
 
 ![image](https://github.com/user-attachments/assets/4062b662-4057-4956-8a4a-dcc7cc7fa432)
 
+
+- Plan successfully built
+
+
+![image](https://github.com/user-attachments/assets/b98f65b1-b276-420e-ae9c-55edf25ef248)
+
+
