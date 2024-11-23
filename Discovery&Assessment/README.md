@@ -60,7 +60,7 @@ Before starting, ensure you have:
 ![image](https://github.com/user-attachments/assets/38755457-b037-44dc-b6f5-b90099d8662e)
 
 
-- **Install the Appliance**: Install the appliance on a Hyper-V host.
+- **Install the Appliance**: Install the appliance on a Windows server host (am using Windows server 2019).
 
 
    . Unzip the file:
@@ -157,6 +157,7 @@ Before starting, ensure you have:
 
 
 - **Add Discovery** : Click on **Add discovery**, then clcik on **Add single item**. Now provide the following informations needed and then clcik on **Save**.
+- 
   
     . **Discovery soure** : Choose **`Windows Server or Linux Server`** depending on the AWS VM OS you want to migrate.
   
