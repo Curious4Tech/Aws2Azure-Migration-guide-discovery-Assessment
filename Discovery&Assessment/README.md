@@ -176,12 +176,25 @@ Before starting, ensure you have:
 
 
  
- - Successfully discovered. In case you have problem, allow the port **`5985`** in the firewall inboud rules.
+ - Validation has failed
+
+
+![image](https://github.com/user-attachments/assets/942e679a-70d9-4b8b-a720-789723b56c9a)
+
+
+- In case you encounter this problem, allow the port **`5985`** in VPC security group inboud rules.
 
 
 
-![image](https://github.com/user-attachments/assets/fb298203-d0ca-4f7a-9209-6839cec9a5d2)
+![image](https://github.com/user-attachments/assets/9c840f34-fe12-4ec8-b0a3-6315a50d4d42)
 
+- connect to the AWS VM, edit the firewall rules and then add an inboud rule to allow port 5985.
+
+
+![image](https://github.com/user-attachments/assets/c7580d06-efe2-4c36-b31b-150a040bed07)
+
+
+- Now try to click validate and then
 
 - You can also do the same for the sql server but it is optional for this demo. So I disabled this option for the sake of this demo.
 
