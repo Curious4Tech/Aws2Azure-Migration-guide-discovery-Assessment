@@ -270,4 +270,8 @@ Before starting, ensure you have:
 ![image](https://github.com/user-attachments/assets/bc750178-c963-4110-b219-c0b7cca08605)
 
 
+- After successfully assessment, your server is ready as you can.
+
+  ![image](https://github.com/user-attachments/assets/c5fb3bd3-ec2f-4c78-b979-53b85205b291)
+
 
