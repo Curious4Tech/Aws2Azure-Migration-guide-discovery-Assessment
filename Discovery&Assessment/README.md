@@ -176,7 +176,7 @@ Before starting, ensure you have:
 
 
  
- - Validation has failed
+ - Validation has failed. This is related to the port **`5985`**.
 
 
 ![image](https://github.com/user-attachments/assets/942e679a-70d9-4b8b-a720-789723b56c9a)
@@ -194,13 +194,13 @@ Before starting, ensure you have:
 ![image](https://github.com/user-attachments/assets/c7580d06-efe2-4c36-b31b-150a040bed07)
 
 
-- Go back to the configuration and then click on **`Revalidate`**, now you can see that validation is succcessfully.
+- Go back to the configuration page and then click on **`Revalidate`**, now you can see that the validation is succcessfully.
 
 
 ![image](https://github.com/user-attachments/assets/39e47159-e138-43d9-a360-c8c07d9b17e1)
 
 
-- You can also do the same for the sql server but it is optional for this demo. So I disabled this option for the sake of this demo.
+- Disabled this option for the sake of this demo.
 
 
 
