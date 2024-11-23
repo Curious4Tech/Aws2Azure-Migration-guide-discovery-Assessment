@@ -179,7 +179,7 @@ Before starting, ensure you have:
  - Validation has failed. This is related to the port **`5985`**.
 
 
-![image](https://github.com/user-attachments/assets/942e679a-70d9-4b8b-a720-789723b56c9a)
+![image](https://github.com/user-attachments/assets/18f6f003-ea3e-469d-85c7-cad085b4cce1)
 
 
 - In case you encounter this problem, allow the port **`5985`** in VPC security group inboud rules.
