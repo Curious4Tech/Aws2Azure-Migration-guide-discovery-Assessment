@@ -188,13 +188,17 @@ Before starting, ensure you have:
 
 ![image](https://github.com/user-attachments/assets/9c840f34-fe12-4ec8-b0a3-6315a50d4d42)
 
-- connect to the AWS VM, edit the firewall rules and then add an inboud rule to allow port 5985.
+- connect to the AWS VM, edit the firewall rules and then add an inboud rule to allow port **`5985`**.
 
 
 ![image](https://github.com/user-attachments/assets/c7580d06-efe2-4c36-b31b-150a040bed07)
 
 
-- Now try to click validate and then
+- Go back to the configuration and then click on **`Revalidate`**, now you can see that validation is succcessfully.
+
+
+![image](https://github.com/user-attachments/assets/39e47159-e138-43d9-a360-c8c07d9b17e1)
+
 
 - You can also do the same for the sql server but it is optional for this demo. So I disabled this option for the sake of this demo.
 
