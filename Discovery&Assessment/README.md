@@ -168,7 +168,7 @@ Before starting, ensure you have:
 
 
 
-    . **Map credentrials** : Choose your previous  added AWS server
+  . **Map credentrials** : Choose your previous  added AWS server
 
 
 
