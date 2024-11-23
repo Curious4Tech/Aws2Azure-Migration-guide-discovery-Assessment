@@ -189,6 +189,7 @@ Before starting, ensure you have:
 
 ![image](https://github.com/user-attachments/assets/9c840f34-fe12-4ec8-b0a3-6315a50d4d42)
 
+
 - connect to the AWS VM, edit the firewall rules and then add an inboud rule to allow port **`5985`**.
 
 
@@ -251,5 +252,11 @@ Before starting, ensure you have:
 
 
 - In the new windows that is going to open, choose the right detail informations for your migrating server including **Target settings, VM size , Pricing, Azure Hybrid Benefit  and Security**, then click on **Save**.
+
+
+  ![image](https://github.com/user-attachments/assets/27daffc3-ecb3-487a-af5b-eb1f7e4b5367)
+
+  
+
 
 
