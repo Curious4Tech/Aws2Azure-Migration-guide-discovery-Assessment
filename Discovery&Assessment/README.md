@@ -273,6 +273,16 @@ Before starting, ensure you have:
 - After successfully assessment, your server is ready as you can.
 
 
-![image](https://github.com/user-attachments/assets/c5fb3bd3-ec2f-4c78-b979-53b85205b291)
+![image](https://github.com/user-attachments/assets/2964c000-1277-430c-ba0c-492d82050fda)
 
+
+## Build a business case (Optional)
+
+- Click on Build Business case
+
+
+- Now provide all the infos depending on your needs. And clcik on Build Buisiness case. After that you have to wait for some minutes before your plan to be ready.
+
+
+![image](https://github.com/user-attachments/assets/4062b662-4057-4956-8a4a-dcc7cc7fa432)
 
