@@ -281,6 +281,9 @@ Before starting, ensure you have:
 - Click on Build Business case
 
 
+![image](https://github.com/user-attachments/assets/e1ac6f64-b8b7-4e9d-b44e-0d6c15cc8dd0)
+
+
 - Now provide all the infos depending on your needs. And clcik on Build Buisiness case. After that you have to wait for some minutes before your plan to be ready.
 
 
