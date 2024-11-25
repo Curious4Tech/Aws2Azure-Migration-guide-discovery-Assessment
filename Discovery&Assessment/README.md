@@ -162,7 +162,8 @@ Before starting, ensure you have:
     . **IP address/ FQDN** : Your AWS VM or server domain name or your AWS public IP address
 
 
-![image](https://github.com/user-attachments/assets/cfc8a11c-0ccc-4939-b498-797c5514c5e0)
+![image](https://github.com/user-attachments/assets/f913bf2e-82f9-4387-b16e-1b86c3f28c17)
+
 
 
 
