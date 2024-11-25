@@ -46,7 +46,8 @@
 
 - Go back to your azure portal at the same you let if, you should see your registered or select it and then click on **Finalize registration**
   
-![image](https://github.com/user-attachments/assets/0eb94d77-b303-4bac-bae1-ff563cede3f4)
+
+![image](https://github.com/user-attachments/assets/d8d8897e-03a4-4168-8d4e-2510b43100ac)
 
 - Now our replication server is successfully registered. You can now clcik on **close**.
 
