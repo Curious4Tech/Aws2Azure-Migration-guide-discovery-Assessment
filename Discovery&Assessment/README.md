@@ -98,8 +98,7 @@ Before starting, ensure you have:
   . Accept the terms of use
 
 
-![image](https://github.com/user-attachments/assets/16e1527b-a9f4-4ca2-a219-60749c2a5fb1)
-
+![image](https://github.com/user-attachments/assets/1b7d7d9b-81df-4e27-a2d0-ff1711d41127)
 
   . Provide your project key, the key you have created before in the Azure portal and then click on **Verify**. You have to wait for some minutes (up to 5 minutes).
 
