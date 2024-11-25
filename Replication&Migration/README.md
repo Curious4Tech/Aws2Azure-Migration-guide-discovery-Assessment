@@ -30,7 +30,7 @@
 ![image](https://github.com/user-attachments/assets/274f4a95-e314-4760-9d94-02d7fe57bc34)
 
 
-- Click on **`Add account`**, provide all the detail, in the password field provide your previous passphrase.
+- Click on **`Add Account`**, provide all the detail, in the password field provide your previous passphrase and then click on **OK**.
 
 
 ![image](https://github.com/user-attachments/assets/b0f5c5e9-7b77-407a-a7e6-03a3d4a404f5)
