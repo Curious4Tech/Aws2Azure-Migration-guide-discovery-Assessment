@@ -49,3 +49,7 @@ When A pop-pup windows open, click **yes**. A new window will automatically open
 ![image](https://github.com/user-attachments/assets/b28f5e72-2a90-4024-b759-2e7576b8aa09)
 
 
+-In your project, under migration, click on **Replicate**
+
+![image](https://github.com/user-attachments/assets/7a4d9f4d-2bd9-4730-b5d0-d458406367ee)
+
