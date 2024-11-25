@@ -33,8 +33,7 @@ Before starting, ensure you have:
 
 
 
-![image](https://github.com/user-attachments/assets/ac880238-9497-45f9-bdcd-2053072d6997)
-
+![image](https://github.com/user-attachments/assets/680f42fe-576d-449d-b94f-469c5e9522df)
 
 
 - **Verify Permissions**: Ensure your Azure account has the necessary permissions.
