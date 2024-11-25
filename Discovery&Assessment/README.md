@@ -271,7 +271,11 @@ Before starting, ensure you have:
 ![image](https://github.com/user-attachments/assets/2964c000-1277-430c-ba0c-492d82050fda)
 
 
-## Build a business case (Optional)
+- So our AWS VM (Server) is now ready for Azure.
+
+![image](https://github.com/user-attachments/assets/6a59b4bf-927b-4049-85af-256c87ec96f6)
+
+
 
 - Click on Build Business case
 
