@@ -198,20 +198,17 @@ Before starting, ensure you have:
 - Go back to the configuration page and then click on **`Revalidate`**, now you can see that the validation is succcessfully.
 
 
-![image](https://github.com/user-attachments/assets/39e47159-e138-43d9-a360-c8c07d9b17e1)
+![image](https://github.com/user-attachments/assets/3c1c9098-ed42-43ce-884a-22bd0576f711)
 
 
 - Disabled this option for the sake of this demo.
-
 
 
 ![image](https://github.com/user-attachments/assets/1b956969-2e03-440e-b5ac-5b0f2520d427)
 
 
 
-
 - Now you can click on **Start discovery** to start the discovery.
-
 
 
 ![image](https://github.com/user-attachments/assets/1c4a4195-0d3a-4ea5-adcb-1f30943fae0c)
