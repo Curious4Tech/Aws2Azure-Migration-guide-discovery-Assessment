@@ -39,3 +39,15 @@ In the new
 ![image](https://github.com/user-attachments/assets/bfccd8b6-9e4b-4f32-8b40-dd1c2e2653a6)
 
 
+After some period of time, our server is successfully registered. You can now click on **Ok**
+
+![image](https://github.com/user-attachments/assets/06d10c71-818f-45ff-ba3e-0dbb37fd72ff)
+
+Go back to your azure portal at the same you let if, you should see your registered or select it and then click on **Finalize registration**
+![image](https://github.com/user-attachments/assets/0eb94d77-b303-4bac-bae1-ff563cede3f4)
+
+Now our replication server is successfully registered. You can now clcik on **close**.
+
+![image](https://github.com/user-attachments/assets/b28f5e72-2a90-4024-b759-2e7576b8aa09)
+
+
