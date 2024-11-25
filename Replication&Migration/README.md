@@ -25,3 +25,6 @@
 
 
 - Follow the wizard to register your server. At the end, click on **`Finish`**.
+
+  ![image](https://github.com/user-attachments/assets/d4b231b8-8224-426f-b463-01a5ff0a0ca0)
+
