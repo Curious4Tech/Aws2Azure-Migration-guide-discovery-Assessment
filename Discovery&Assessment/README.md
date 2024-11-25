@@ -259,10 +259,11 @@ Before starting, ensure you have:
 ![image](https://github.com/user-attachments/assets/ad16f6f1-2ead-40d0-b57f-71be334297cc)
 
 
-- Verify and create assessment : Review to see if everything is correct before clicking on Review + create assessment. If there is any change you want to make, you can clcik on Previous.
+- Verify and create assessment : Review to see if everything is correct before clicking on Review + create assessment. If there is any change you want to make, you can clcik on **Previous**.
 
 
-![image](https://github.com/user-attachments/assets/bc750178-c963-4110-b219-c0b7cca08605)
+![image](https://github.com/user-attachments/assets/0b7faf01-1f19-4ea1-87b9-0fbded8db48c)
+
 
 
 - After successfully assessment, your server is ready as you can.
