@@ -52,7 +52,7 @@ Before starting, ensure you have:
 
   . **Generate Project Key**: An appliance named **`key1`** , and then click on **Generate key** to generate a new key and then copy and save it, you will need it later.
 
-  . **Download Appliance**: Download the .zip file (500MB), so I will use powershell for the installation process.
+  . **Download Appliance**: Download the .zip file 500MB, so we will use powershell for the installation process.
 
 
 
