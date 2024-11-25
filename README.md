@@ -280,25 +280,8 @@ Before starting, ensure you have:
 
 - Here we go.
 
-
 ![image](https://github.com/user-attachments/assets/e8bbb8bb-5b36-4e90-8739-e0ef6105a628)
 
-- Click on Build Business case
-
-
-![image](https://github.com/user-attachments/assets/e1ac6f64-b8b7-4e9d-b44e-0d6c15cc8dd0)
-
-
-- Now provide all the infos depending on your needs. And clcik on Build Buisiness case. After that you have to wait for some minutes before your plan to be ready.
-
-
-![image](https://github.com/user-attachments/assets/4062b662-4057-4956-8a4a-dcc7cc7fa432)
-
-
-- Plan successfully built
-
-
-![image](https://github.com/user-attachments/assets/b98f65b1-b276-420e-ae9c-55edf25ef248)
 
 ---
 ## Conclusion
