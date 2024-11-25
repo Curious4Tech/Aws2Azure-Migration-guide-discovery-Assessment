@@ -256,7 +256,7 @@ Before starting, ensure you have:
 - Selected servers to access : Create a new group by giving it a name, choose your appliance. Make sure your server that you want to migrate is checked and then proceed.
 
 
-![image](https://github.com/user-attachments/assets/ad16f6f1-2ead-40d0-b57f-71be334297cc)
+![image](https://github.com/user-attachments/assets/d584108d-7c6d-432b-91ad-a74f429690dd)
 
 
 - Verify and create assessment : Review to see if everything is correct before clicking on Review + create assessment. If there is any change you want to make, you can clcik on **Previous**.
