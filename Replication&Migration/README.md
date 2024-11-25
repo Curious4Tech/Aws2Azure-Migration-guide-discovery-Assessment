@@ -26,5 +26,16 @@
 
 - Follow the wizard to register your server. At the end, click on **`Finish`**.
 
-  ![image](https://github.com/user-attachments/assets/d4b231b8-8224-426f-b463-01a5ff0a0ca0)
+![image](https://github.com/user-attachments/assets/70c10e4f-2909-499b-83e1-f73196ed1762)
+
+
+When A pop-pup windows open, click yes
+
+![image](https://github.com/user-attachments/assets/274f4a95-e314-4760-9d94-02d7fe57bc34)
+
+
+In the new 
+
+![image](https://github.com/user-attachments/assets/bfccd8b6-9e4b-4f32-8b40-dd1c2e2653a6)
+
 
