@@ -103,12 +103,10 @@ Before starting, ensure you have:
   . Provide your project key, the key you have created before in the Azure portal and then click on **Verify**. You have to wait for some minutes (up to 5 minutes).
 
 
-
-![image](https://github.com/user-attachments/assets/49bf123e-5d9c-4def-90de-ab958991c080)
-
+![image](https://github.com/user-attachments/assets/98841b1e-d68f-49c2-9aba-a08918b8c871)
 
 
-  
+
   . After some minutes, you will have a pop-pup, just clcik **Refresh**
 
 
