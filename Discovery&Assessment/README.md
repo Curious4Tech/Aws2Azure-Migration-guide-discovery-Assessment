@@ -181,7 +181,7 @@ Before starting, ensure you have:
 ![image](https://github.com/user-attachments/assets/18f6f003-ea3e-469d-85c7-cad085b4cce1)
 
 
-- In case you encounter this problem, allow the port **`5985`** in VPC security group inboud rules.
+- In case you encounter this problem, allow the port **`5985`** in your VPC security group to which your VM is connected, in the inboud rules section.
 
 
 
