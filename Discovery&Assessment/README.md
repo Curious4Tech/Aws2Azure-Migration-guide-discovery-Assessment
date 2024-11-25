@@ -50,7 +50,7 @@ Before starting, ensure you have:
 
   . **Select Virtualization**: The servers are virtualized, with **`Physical or other (AWS,GCP,Xen,etc.`** chosen.
 
-  . **Generate Project Key**: An appliance named **`key1`** , and then click on **generate key** to generate a new key and then copy and save it, you will need it later.
+  . **Generate Project Key**: An appliance named **`key1`** , and then click on **Generate key** to generate a new key and then copy and save it, you will need it later.
 
   . **Download Appliance**: Download the .zip file (500MB), so I will use powershell for the installation process.
 
