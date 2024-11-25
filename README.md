@@ -6,6 +6,7 @@ Before starting, ensure you have:
 - An active Azure subscription.
 - Permissions to create VMs and write to Azure managed disks.
 - Access to the Azure portal and VMs you want to migrate.
+- An AWS VM ready for migration.
 
 ## Step-by-Step Guide
 
