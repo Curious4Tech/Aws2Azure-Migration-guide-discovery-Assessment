@@ -222,7 +222,7 @@ Before starting, ensure you have:
 
 
 
-### Assess Hyper-V VMs
+### Assess your AWS VMs
 
 - Go back to the Azure portal, then to **Azure migrate** and then your project to see the discovery.
 
