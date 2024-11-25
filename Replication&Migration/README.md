@@ -20,7 +20,7 @@
 - Wait for prerequisites check
 
 
-![image](https://github.com/user-attachments/assets/dc588375-2e63-4d48-ae15-c54344d171e2)
+![image](https://github.com/user-attachments/assets/a330270c-273a-41a0-b379-18f35b98ab33)
 
 
 
