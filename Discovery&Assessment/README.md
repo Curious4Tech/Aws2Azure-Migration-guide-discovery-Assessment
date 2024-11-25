@@ -88,6 +88,9 @@ Before starting, ensure you have:
 - After successfully installation copy the  provided url at the end, paste it on your web browser and then continue the procedure.
 
 
+![image](https://github.com/user-attachments/assets/19ba8adb-ad51-4c97-9faa-4abb34cec581)
+
+
 ### Set up prerequisites
 
 - **Discover VMs**: Use the Azure Migrate appliance to discover the Hyper-V hosts and VMs.
