@@ -81,12 +81,11 @@ Before starting, ensure you have:
 
 - Follow the powershell prompt and I read cearfully to make the right choices.
 
-- After successfully installation copy the  provided url at the end, paste it on your web browser and then continue the procedure.
-
-
 
 ![image](https://github.com/user-attachments/assets/af9d335e-abd2-4e50-bb5a-1985d60ffd5c)
 
+
+- After successfully installation copy the  provided url at the end, paste it on your web browser and then continue the procedure.
 
 
 ### Set up prerequisites
