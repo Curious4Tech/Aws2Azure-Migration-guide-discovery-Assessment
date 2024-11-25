@@ -1,6 +1,3 @@
-# awstoazure-migrate
-AWStoAzureMigration
-
 ## Introduction
 This guide provides detailed steps to do discovery and assessment of an AWS VM using Azure Migrate.
 
