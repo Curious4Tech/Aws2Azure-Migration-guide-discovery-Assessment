@@ -24,13 +24,19 @@
 ![image](https://github.com/user-attachments/assets/70c10e4f-2909-499b-83e1-f73196ed1762)
 
 
-When A pop-pup windows open, click **yes**. A new window will automatically open.
+-When A pop-pup windows open, click **yes**. A new window will automatically open. Save this passphrase, you will use it later.
 
 
 ![image](https://github.com/user-attachments/assets/274f4a95-e314-4760-9d94-02d7fe57bc34)
 
 
-- In the new opened window, click **Vault registration** then brrowse your file system to select you vault you previously downloaded and click on **Register**.
+- Click on **`Add account`**, provide all the detail, in the password field provide your previous passphrase.
+
+
+![image](https://github.com/user-attachments/assets/b0f5c5e9-7b77-407a-a7e6-03a3d4a404f5)
+
+
+- Now click **Vault registration** then brrowse your file system to select you vault you previously downloaded and click on **Register**.
 
 ![image](https://github.com/user-attachments/assets/bfccd8b6-9e4b-4f32-8b40-dd1c2e2653a6)
 
