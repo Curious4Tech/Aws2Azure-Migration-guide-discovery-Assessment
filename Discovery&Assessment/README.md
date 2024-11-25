@@ -62,7 +62,7 @@ Before starting, ensure you have:
 - **Install the Appliance**: Install the appliance on a Windows server host (am using Windows server 2019).
 
 
-   . Unzip the file:
+   . Unzip 500MB the file:
 
 
 
