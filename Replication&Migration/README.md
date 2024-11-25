@@ -51,7 +51,7 @@
 
 - Now our replication server is successfully registered. You can now clcik on **close**.
 
-![image](https://github.com/user-attachments/assets/b28f5e72-2a90-4024-b759-2e7576b8aa09)
+![image](https://github.com/user-attachments/assets/6cd050f0-03e1-4c11-95c9-3e9033fbf9eb)
 
 
 -In your project, under migration, click on **Replicate**
