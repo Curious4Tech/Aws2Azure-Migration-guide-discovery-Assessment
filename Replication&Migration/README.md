@@ -1,4 +1,4 @@
-- Provide all the informations based on your need and then click on **Create a resources**
+- Provide all the informations based on your need and then click on **Create a resources**. Make sure the **Confirm the target location is "East US"**.
 
 ![image](https://github.com/user-attachments/assets/dc8c3efa-407e-4ab0-983a-23e95437fd27)
 
