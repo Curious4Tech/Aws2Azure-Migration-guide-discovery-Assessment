@@ -185,7 +185,7 @@ Before starting, ensure you have:
 
 
 
-![image](https://github.com/user-attachments/assets/9c840f34-fe12-4ec8-b0a3-6315a50d4d42)
+![image](https://github.com/user-attachments/assets/bc06316f-e0a3-424f-a1ee-a9bc3253c8f8)
 
 
 - connect to your AWS VM, edit the firewall rules and then add an inboud rule to allow the port **`5985`**.
