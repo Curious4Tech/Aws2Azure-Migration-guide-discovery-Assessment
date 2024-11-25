@@ -34,7 +34,7 @@ When A pop-pup windows open, click **yes**. A new window will automatically open
 ![image](https://github.com/user-attachments/assets/274f4a95-e314-4760-9d94-02d7fe57bc34)
 
 
-In the new opened window, click 
+In the new opened window, click **Vault registration** then brrowse your file system to select you vault you previously downloaded and click on **Register**.
 
 ![image](https://github.com/user-attachments/assets/bfccd8b6-9e4b-4f32-8b40-dd1c2e2653a6)
 
