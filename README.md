@@ -300,4 +300,8 @@ Before starting, ensure you have:
 
 ![image](https://github.com/user-attachments/assets/b98f65b1-b276-420e-ae9c-55edf25ef248)
 
+---
+## Conclusion
 
+This comprehensive guide has outlined the detailed steps for performing discovery and assessment of an AWS VM using Azure Migrate. 
+With your AWS VM now assessed and ready for migration, you are well-positioned to proceed with the next phase: the actual migration process. Azure Migrate simplifies cloud adoption by providing a structured and efficient pathway for transitioning workloads to Azure. Take time to review the assessment results and plan your migration strategy, ensuring a seamless transition while minimizing downtime.
