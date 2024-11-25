@@ -17,9 +17,7 @@
 
 - Wait for prerequisites check
 
-
-![image](https://github.com/user-attachments/assets/a330270c-273a-41a0-b379-18f35b98ab33)
-
+![image](https://github.com/user-attachments/assets/fba2a90b-11cc-4e32-9a54-c847a913357d)
 
 - Follow the wizard to register your server. At the end, click on **`Finish`**.
 
