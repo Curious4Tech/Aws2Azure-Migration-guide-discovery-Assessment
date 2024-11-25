@@ -188,10 +188,11 @@ Before starting, ensure you have:
 ![image](https://github.com/user-attachments/assets/9c840f34-fe12-4ec8-b0a3-6315a50d4d42)
 
 
-- connect to the AWS VM, edit the firewall rules and then add an inboud rule to allow port **`5985`**.
+- connect to your AWS VM, edit the firewall rules and then add an inboud rule to allow the port **`5985`**.
 
 
-![image](https://github.com/user-attachments/assets/c7580d06-efe2-4c36-b31b-150a040bed07)
+![image](https://github.com/user-attachments/assets/42b38f60-70cb-4b6d-8ea2-8fc9c074bb87)
+
 
 
 - Go back to the configuration page and then click on **`Revalidate`**, now you can see that the validation is succcessfully.
