@@ -29,24 +29,23 @@
 ![image](https://github.com/user-attachments/assets/70c10e4f-2909-499b-83e1-f73196ed1762)
 
 
-When A pop-pup windows open, click yes
+When A pop-pup windows open, click **yes**. A new window will automatically open.
 
 ![image](https://github.com/user-attachments/assets/274f4a95-e314-4760-9d94-02d7fe57bc34)
 
 
-In the new 
+In the new opened window, click 
 
 ![image](https://github.com/user-attachments/assets/bfccd8b6-9e4b-4f32-8b40-dd1c2e2653a6)
 
-
-After some period of time, our server is successfully registered. You can now click on **Ok**
+- After some period of time, our server is successfully registered. You can now click on **Ok**
 
 ![image](https://github.com/user-attachments/assets/06d10c71-818f-45ff-ba3e-0dbb37fd72ff)
 
-Go back to your azure portal at the same you let if, you should see your registered or select it and then click on **Finalize registration**
+- Go back to your azure portal at the same you let if, you should see your registered or select it and then click on **Finalize registration**
 ![image](https://github.com/user-attachments/assets/0eb94d77-b303-4bac-bae1-ff563cede3f4)
 
-Now our replication server is successfully registered. You can now clcik on **close**.
+- Now our replication server is successfully registered. You can now clcik on **close**.
 
 ![image](https://github.com/user-attachments/assets/b28f5e72-2a90-4024-b759-2e7576b8aa09)
 
